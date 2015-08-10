@@ -1,0 +1,6 @@
+potion.radiation.name=Radiation
+item.itemArmorRadiationSuitHelmet.name=Radiation Suit Helmet
+item.itemArmorRadiationSuitChestplate.name=Radiation Suit Chestplate
+item.itemArmorRadiationSuitLeggings.name=Radiation Suit Leggings
+item.itemArmorRadiationSuitBoots.name=Radiation Suit Boots
+death.attack.radiation=%1$s died from Radiation

@@ -1,0 +1,22 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="net.minecraft.world.biome.WorldChunkManager"><rhs name\="net.minecraft.world.biome.WorldChunkManagerHell"/></lhs><lhs name\="net.minecraft.world.biome.BiomeGenBase"><rhs name\="de.maxhenkel.caveworld.worldgen.BiomeGenCave"/></lhs><lhs name\="de.maxhenkel.caveworld.worldgen.BiomeGenCave"><rhs name\="de.maxhenkel.caveworld.worldgen.BiomeGenCave"/></lhs><lhs name\="net.minecraft.util.Vec3i"><rhs name\="net.minecraft.util.BlockPos"/></lhs><lhs name\="net.minecraft.util.BlockPos"><rhs name\="net.minecraft.util.BlockPos"/></lhs><lhs name\="net.minecraft.potion.PotionEffect"><rhs name\="net.minecraft.potion.PotionEffect"/></lhs><lhs name\="net.minecraft.util.ResourceLocation"><rhs name\="net.minecraft.util.ResourceLocation"/></lhs><lhs name\="net.minecraft.util.DamageSource"><rhs name\="net.minecraft.util.DamageSource"/></lhs><lhs name\="net.minecraft.util.WeightedRandom$Item"><rhs name\="net.minecraft.util.WeightedRandomChestContent"/></lhs><lhs name\="net.minecraft.util.WeightedRandomChestContent"><rhs name\="net.minecraft.util.WeightedRandomChestContent"/></lhs><lhs name\="java.lang.Enum"><rhs name\="net.minecraftforge.event.terraingen.PopulateChunkEvent$Populate$EventType"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Courier New|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Courier New;
+proposalOrderMigrated=true
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
