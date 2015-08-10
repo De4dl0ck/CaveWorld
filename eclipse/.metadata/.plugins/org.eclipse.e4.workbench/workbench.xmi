@@ -70,8 +70,9 @@
           <tags>persp.newWizSC:org.eclipse.m2e.core.wizards.Maven2ProjectWizard</tags>
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.actionSet:org.eclipse.wst.ws.explorer.explorer</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_EYX9cDLIEeWGfbwUoi8PFw" selectedElement="_EYX9djLIEeWGfbwUoi8PFw" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_EYX9cDLIEeWGfbwUoi8PFw" selectedElement="_EYX9cTLIEeWGfbwUoi8PFw" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_EYX9cTLIEeWGfbwUoi8PFw" elementId="topLeft" containerData="2500" selectedElement="_EYX9cjLIEeWGfbwUoi8PFw">
+              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_EYX9cjLIEeWGfbwUoi8PFw" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_EUMoEDLIEeWGfbwUoi8PFw"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_EYX9czLIEeWGfbwUoi8PFw" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_EUN2MDLIEeWGfbwUoi8PFw"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_EYX9dDLIEeWGfbwUoi8PFw" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_EUOdQDLIEeWGfbwUoi8PFw"/>
@@ -126,7 +127,6 @@
       <children xsi:type="basic:PartStack" xmi:id="_ET8JYTLIEeWGfbwUoi8PFw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_NuPhAD9HEeW-GtV1c95Q_A">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_9yDKED9GEeW-GtV1c95Q_A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CaveWorld.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CaveWorld.java&quot; partName=&quot;CaveWorld.java&quot; title=&quot;CaveWorld.java&quot; tooltip=&quot;Minecraft/src/main/java/de/maxhenkel/caveworld/CaveWorld.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/main/java/de/maxhenkel/caveworld/CaveWorld.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;163&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -192,8 +192,6 @@
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -201,6 +199,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1437832282883&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_EgKAcDLIEeWGfbwUoi8PFw" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -317,7 +317,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_D2BeUDLIEeWGfbwUoi8PFw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_zstuQD9FEeW-GtV1c95Q_A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_CheGSzLIEeWGfbwUoi8PFw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_wGZc8D9HEeWIK5cqedd-rQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_CheGSzLIEeWGfbwUoi8PFw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_D2BeUTLIEeWGfbwUoi8PFw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -347,7 +347,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_D2CFYDLIEeWGfbwUoi8PFw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_zswxkD9FEeW-GtV1c95Q_A" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ChZ03zLIEeWGfbwUoi8PFw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_wGcgQD9HEeWIK5cqedd-rQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ChZ03zLIEeWGfbwUoi8PFw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_D2CFYTLIEeWGfbwUoi8PFw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
