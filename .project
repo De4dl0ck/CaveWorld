@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>CaveWorld2</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
+	<name>CaveWorld3</name>
+	<comment/>
+	<projects/>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>.link0</name>
-			<type>2</type>
-			<location>C:/Users/Max/.gradle/caches/minecraft/net/minecraftforge/forge/1.8-11.14.3.1450/start</location>
-		</link>
-		<link>
-			<name>.link1</name>
-			<type>2</type>
-			<location>C:/Users/Max/.gradle/caches/minecraft/net/minecraftforge/forge/1.8-11.14.2.1423/start</location>
-		</link>
-	</linkedResources>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments/>
+		</buildCommand>
+	</buildSpec>
+	<linkedResources/>
 </projectDescription>
